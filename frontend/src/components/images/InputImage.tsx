@@ -20,7 +20,7 @@ export default function InputImage({
             <img
                 src={url}
                 alt="Image"
-                className="rounded-lg overflow-hidden object-cover w-fit h-[100px]"
+                className="rounded-lg overflow-hidden object-cover max-w-[200px] h-auto"
             />
         </div>
     );
