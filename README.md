@@ -7,3 +7,5 @@
 2. Real-time messaging for private messages and group messages (allow to send text, images or emoji)
 3. Online user status
 4. Create group and add member to group (real-time)
+
+**Link**: https://chat-app-119.netlify.app/
